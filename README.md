@@ -129,7 +129,7 @@ If you use this work in your research, please cite our paper:
                Feckl, Lukas and Mazura, Florian and Stork, Wilhelm},
   title     = {RPH-Trode: A Rapid Prototyping Approach to Patient Friendly 
                Hybrid EEG Electrodes},
-  booktitle = {[Conference/Journal Name - To Be Published]},
+  booktitle = {Integrated Systems in Medical Technologies (ISMT) 2025},
   year      = {2025},
   note      = {Submitted for publication}
 }
